@@ -1,0 +1,2 @@
+**Interpreter** : `/bin/bash`
+
